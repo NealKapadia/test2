@@ -1,3 +1,22 @@
+---
+language:
+- en
+license: mit
+task_categories:
+- conversational
+- text-classification
+- token-classification
+- table-question-answering
+- question-answering
+- zero-shot-classification
+- summarization
+- feature-extraction
+- text-generation
+- text2text-generation
+pretty_name: SlimOrca
+size_categories:
+- 100K<n<1M
+---
 
 # Overview
 
