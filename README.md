@@ -30,3 +30,36 @@ This reduces the dataset size to only ~500k entries, allowing training to a simi
 
 * https://huggingface.co/openaccess-ai-collective/jackalope-7b
 * https://huggingface.co/Open-Orca/Mistral-7B-SlimOrca
+
+
+# Citation
+
+```bibtex
+@misc{SlimOrca,
+  title = {SlimOrca: An Open Dataset of GPT-4 Augmented FLAN Reasoning Traces, with Verification},
+  author = {Wing Lian and Bleys Goodson and Eugene Pentland and Austin Cook and Chanvichet Vong and "Teknium"},
+  year = {2023},
+  publisher = {HuggingFace},
+  url = {https://https://huggingface.co/Open-Orca/SlimOrca}
+}
+```
+```bibtex
+@misc{mukherjee2023orca,
+      title={Orca: Progressive Learning from Complex Explanation Traces of GPT-4}, 
+      author={Subhabrata Mukherjee and Arindam Mitra and Ganesh Jawahar and Sahaj Agarwal and Hamid Palangi and Ahmed Awadallah},
+      year={2023},
+      eprint={2306.02707},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+```bibtex
+@misc{longpre2023flan,
+      title={The Flan Collection: Designing Data and Methods for Effective Instruction Tuning}, 
+      author={Shayne Longpre and Le Hou and Tu Vu and Albert Webson and Hyung Won Chung and Yi Tay and Denny Zhou and Quoc V. Le and Barret Zoph and Jason Wei and Adam Roberts},
+      year={2023},
+      eprint={2301.13688},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
