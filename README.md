@@ -37,7 +37,7 @@ This reduces the dataset size to only ~500k entries, allowing training to a simi
 ```bibtex
 @misc{SlimOrca,
   title = {SlimOrca: An Open Dataset of GPT-4 Augmented FLAN Reasoning Traces, with Verification},
-  author = {Wing Lian and Bleys Goodson and Eugene Pentland and Austin Cook and Chanvichet Vong and "Teknium"},
+  author = {Wing Lian and Guan Wang and Bleys Goodson and Eugene Pentland and Austin Cook and Chanvichet Vong and "Teknium"},
   year = {2023},
   publisher = {HuggingFace},
   url = {https://https://huggingface.co/Open-Orca/SlimOrca}
